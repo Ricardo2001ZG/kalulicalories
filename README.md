@@ -63,7 +63,7 @@ ui 设计部分严禁商用与转投其他比赛，开发者与项目队伍成�
 ```
 涉及到的部分字体：
 
-开屏字体：HYZhuZiXiaoJingLingW.ttf (汉仪铸造小精灵W)
+开屏字体：HYZhuZiXiaoJingLingW.ttf (汉仪铸字小精灵W)
 
 软件内字体：Helvetica.ttc、Hiragino Sans GB.ttc、PingFang.ttc(苹方)
 
