@@ -27,7 +27,9 @@
 
 IDE：IDEA、Pycharm、DataGrip。
 
-后端：nginx(代理转发、https、http2)、mariadb
+后端：nginx(代理转发、https、http2)
+
+数据库：Mariadb(正在替换sqlite中)
 ```
 
 数据库表结构：
